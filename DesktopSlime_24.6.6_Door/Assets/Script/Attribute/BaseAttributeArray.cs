@@ -7,7 +7,7 @@ public class BaseAttributeArray : ScriptableObject
 {
     public BaseAttribute[] baseAttributeArray;
 
-    private void OnValidate()
+   /* private void OnValidate()
     {
         foreach (AttributeTypeSO attributeType in GameResources.Instance.instanceBaseAttributeTypeArray)
         {
@@ -43,6 +43,6 @@ public class BaseAttributeArray : ScriptableObject
         }
 
         HelperUtils.ValidateCheckEnumerableValues(this, nameof(baseAttributeArray), baseAttributeArray);
-    }
+    }*/
 }
 
