@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f283bb95d6fe374a967ba027630b123, type: 3}
+  m_Name: ScriptableObjectIDListSO_Main
+  m_EditorClassIdentifier: 
+  scriptableObjectIDList:
+  - scriptableObject: {fileID: 11400000, guid: fae5a12e8d1a47848bef04ef44475e33, type: 2}
+    id: 10000
+  - scriptableObject: {fileID: 11400000, guid: 102d07a6fc4dbf14984b03e499dd3540, type: 2}
+    id: 10001
+  - scriptableObject: {fileID: 11400000, guid: 48ab488834abb0c45aedb6b4e36bf673, type: 2}
+    id: 10002
+  - scriptableObject: {fileID: 11400000, guid: 687748fd7d613c94aa294ac48ba346ed, type: 2}
+    id: 10003
+  - scriptableObject: {fileID: 11400000, guid: 368788329f1f5ef42aed2bd877d15c12, type: 2}
+    id: 10004
+  - scriptableObject: {fileID: 11400000, guid: a20f7b295cba38e40875775cffda1e59, type: 2}
+    id: 10005
+  - scriptableObject: {fileID: 11400000, guid: 62e9fe5b1bc5f90448d8156fec535381, type: 2}
+    id: 10006
+  - scriptableObject: {fileID: 11400000, guid: dfb597f614bc71640bea3534ed024fbb, type: 2}
+    id: 10007
+  - scriptableObject: {fileID: 11400000, guid: e4223517456c6854b951cd04c4da02fc, type: 2}
+    id: 10008
+  - scriptableObject: {fileID: 11400000, guid: 039fb9a68d7d5ef4985d0e2778018e36, type: 2}
+    id: 20000
+  - scriptableObject: {fileID: 11400000, guid: faa292f0b8fd86a49b58787e12848d46, type: 2}
+    id: 20001
+  - scriptableObject: {fileID: 11400000, guid: ff61e791c76d00e4c970dd42ac6eaf4b, type: 2}
+    id: 20002
+  - scriptableObject: {fileID: 11400000, guid: 49aedbc873cac0046b63fbb7f1509cff, type: 2}
+    id: 20003
+  - scriptableObject: {fileID: 11400000, guid: 531a0a4634a2bf643b5cedadd8e93b20, type: 2}
+    id: 20004
+  - scriptableObject: {fileID: 11400000, guid: 5bec1f82f232ad545bb92b6f90e4c4ff, type: 2}
+    id: 20005
+  - scriptableObject: {fileID: 11400000, guid: d5878dfa2967ef846b8bd4c4bd8bbb19, type: 2}
+    id: 20006
+  - scriptableObject: {fileID: 11400000, guid: c00ac13dbbcd9014593ff16e6cd3d61a, type: 2}
+    id: 30000
+  - scriptableObject: {fileID: 11400000, guid: 2058e4f6fbc889046aaca35486beb483, type: 2}
+    id: 30001
+  - scriptableObject: {fileID: 11400000, guid: 53da77781c7c9fb458914aa299b04848, type: 2}
+    id: 40000
+  - scriptableObject: {fileID: 11400000, guid: 3778614b48be39e4c82c5d721fbc0843, type: 2}
+    id: 50000
+  - scriptableObject: {fileID: 11400000, guid: 30027d1e204ce2c40bcb81d641745775, type: 2}
+    id: 60000
+  - scriptableObject: {fileID: 11400000, guid: 19d61c002f2f4f1439a0c6ab9d0f7fea, type: 2}
+    id: 70000
+  - scriptableObject: {fileID: 11400000, guid: ea0872f8c37adc244877bcab8a4c7dc6, type: 2}
+    id: 70001

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db5de8f7282bcac43ac4e6c7760c47c7, type: 3}
+  m_Name: AffixType_HeavyArmor
+  m_EditorClassIdentifier: 
+  value: 0.5
+  attributeModifyDataArray:
+  - attributeType: {fileID: 11400000, guid: 102d07a6fc4dbf14984b03e499dd3540, type: 2}
+    value: 1
+    isAdd: 1
+  - attributeType: {fileID: 11400000, guid: 368788329f1f5ef42aed2bd877d15c12, type: 2}
+    value: 100
+    isAdd: 1
+  isOnAttackAddStatusToSelf: 0
+  isOnAttackAddStatusToEnemy: 0
+  isOnGetHitAddStatusToSelf: 0
+  isOnGetHitAddStatusToEnemy: 0
+  statusType: {fileID: 0}
+  statusStack: 0

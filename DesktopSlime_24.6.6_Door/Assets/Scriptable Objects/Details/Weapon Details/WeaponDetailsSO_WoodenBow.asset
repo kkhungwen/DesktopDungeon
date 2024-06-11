@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d75851a6f4db85e4c9bdaaa562179da2, type: 3}
+  m_Name: WeaponDetailsSO_WoodenBow
+  m_EditorClassIdentifier: 
+  nameString: woodenbow
+  descriptionString: A simple bow made out of wood.
+  affixTypeArray:
+  - {fileID: 11400000, guid: 531a0a4634a2bf643b5cedadd8e93b20, type: 2}
+  - {fileID: 11400000, guid: 039fb9a68d7d5ef4985d0e2778018e36, type: 2}
+  - {fileID: 11400000, guid: d5878dfa2967ef846b8bd4c4bd8bbb19, type: 2}
+  equipType: {fileID: 11400000, guid: ab2dfd57942269f438a61ce089d6b428, type: 2}
+  weaponType: {fileID: 11400000, guid: f367b4e3dfdb96a43a2483975c192ec3, type: 2}
+  equipAttribute:
+    <attributeType>k__BackingField: {fileID: 11400000, guid: fae5a12e8d1a47848bef04ef44475e33, type: 2}
+    <min_LevelValue>k__BackingField: 50
+    <max_LevelValue>k__BackingField: 100
+  attackSpeedRatio: 1
+  iconSprite: {fileID: 1182909663, guid: 5b7cc3448f16dbd408d7396d4d0702e0, type: 3}
+  activeSprite: {fileID: -1460197705, guid: 5b7cc3448f16dbd408d7396d4d0702e0, type: 3}
+  instantiatedSprite: {fileID: 1182909663, guid: 5b7cc3448f16dbd408d7396d4d0702e0, type: 3}
+  attackSprite: {fileID: 1663415147, guid: 5b7cc3448f16dbd408d7396d4d0702e0, type: 3}
+  knockBackStrength: 2
+  preferredDistance: 8
+  preferrdDistanceRange: 2
+  attackRange: 8
+  width_HitBox: 0
+  height_HitBox: 0
+  arrowSprite: {fileID: -39712276, guid: 5b7cc3448f16dbd408d7396d4d0702e0, type: 3}
+  projectileDetails: {fileID: 11400000, guid: cf802b005c7173b4aa88ac0bbf988189, type: 2}
+  projectileRange: 10

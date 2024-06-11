@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d75851a6f4db85e4c9bdaaa562179da2, type: 3}
+  m_Name: WeaponDetailsSO_Claymore
+  m_EditorClassIdentifier: 
+  nameString: claymore
+  descriptionString: description description description description description
+    description
+  affixTypeArray: []
+  equipType: {fileID: 11400000, guid: ab2dfd57942269f438a61ce089d6b428, type: 2}
+  weaponType: {fileID: 11400000, guid: c36fce5755981204e87d3cdeceaf31d5, type: 2}
+  equipAttribute:
+    <attributeType>k__BackingField: {fileID: 11400000, guid: fae5a12e8d1a47848bef04ef44475e33, type: 2}
+    <min_LevelValue>k__BackingField: 50
+    <max_LevelValue>k__BackingField: 100
+  attackSpeedRatio: 0.8
+  iconSprite: {fileID: 1587070804, guid: 535ad7b905437f94a85b25e5dcf7c66b, type: 3}
+  activeSprite: {fileID: 1630193706, guid: 535ad7b905437f94a85b25e5dcf7c66b, type: 3}
+  instantiatedSprite: {fileID: 1587070804, guid: 535ad7b905437f94a85b25e5dcf7c66b, type: 3}
+  attackSprite: {fileID: 1630193706, guid: 535ad7b905437f94a85b25e5dcf7c66b, type: 3}
+  knockBackStrength: 6
+  preferredDistance: 1
+  preferrdDistanceRange: 1
+  attackRange: 1
+  width_HitBox: 0.8
+  height_HitBox: 1.5
+  arrowSprite: {fileID: 0}
+  projectileDetails: {fileID: 0}
+  projectileRange: 0

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d75851a6f4db85e4c9bdaaa562179da2, type: 3}
+  m_Name: WeaponDetailsSO_Fist
+  m_EditorClassIdentifier: 
+  nameString: fist
+  descriptionString: description description description description description
+    description
+  affixTypeArray: []
+  equipType: {fileID: 11400000, guid: ab2dfd57942269f438a61ce089d6b428, type: 2}
+  weaponType: {fileID: 11400000, guid: d78e9ca0cb282404ab1924211925e793, type: 2}
+  equipAttribute:
+    <attributeType>k__BackingField: {fileID: 11400000, guid: fae5a12e8d1a47848bef04ef44475e33, type: 2}
+    <min_LevelValue>k__BackingField: 0
+    <max_LevelValue>k__BackingField: 0
+  attackSpeedRatio: 1
+  iconSprite: {fileID: 1718166054, guid: fa0009c356cf01141b46693d26a8cd26, type: 3}
+  activeSprite: {fileID: 21300000, guid: 24f707589c916b54d90c4b94cbc42c34, type: 3}
+  instantiatedSprite: {fileID: 1718166054, guid: fa0009c356cf01141b46693d26a8cd26, type: 3}
+  attackSprite: {fileID: 21300000, guid: 24f707589c916b54d90c4b94cbc42c34, type: 3}
+  knockBackStrength: 2
+  preferredDistance: 0.2
+  preferrdDistanceRange: 0.2
+  attackRange: 0.2
+  width_HitBox: 0.2
+  height_HitBox: 0.2
+  arrowSprite: {fileID: 0}
+  projectileDetails: {fileID: 0}
+  projectileRange: 0

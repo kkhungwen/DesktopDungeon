@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74525a98294e8bf47a66fe4e1c7b5176, type: 3}
+  m_Name: BaseAttributeArraySO_SlimeKing
+  m_EditorClassIdentifier: 
+  baseAttributeArray:
+  - <attributeType>k__BackingField: {fileID: 11400000, guid: fae5a12e8d1a47848bef04ef44475e33, type: 2}
+    <min_LevelValue>k__BackingField: 10
+    <max_LevelValue>k__BackingField: 10
+    normalized_LevelValueCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 0
+      m_PostInfinity: 0
+      m_RotationOrder: 0
+  - <attributeType>k__BackingField: {fileID: 11400000, guid: 102d07a6fc4dbf14984b03e499dd3540, type: 2}
+    <min_LevelValue>k__BackingField: 0.5
+    <max_LevelValue>k__BackingField: 0.5
+    normalized_LevelValueCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 0
+      m_PostInfinity: 0
+      m_RotationOrder: 0
+  - <attributeType>k__BackingField: {fileID: 11400000, guid: 48ab488834abb0c45aedb6b4e36bf673, type: 2}
+    <min_LevelValue>k__BackingField: 1
+    <max_LevelValue>k__BackingField: 1
+    normalized_LevelValueCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 0
+      m_PostInfinity: 0
+      m_RotationOrder: 0
+  - <attributeType>k__BackingField: {fileID: 11400000, guid: 687748fd7d613c94aa294ac48ba346ed, type: 2}
+    <min_LevelValue>k__BackingField: 1
+    <max_LevelValue>k__BackingField: 1
+    normalized_LevelValueCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 0
+      m_PostInfinity: 0
+      m_RotationOrder: 0
+  - <attributeType>k__BackingField: {fileID: 11400000, guid: 368788329f1f5ef42aed2bd877d15c12, type: 2}
+    <min_LevelValue>k__BackingField: 0
+    <max_LevelValue>k__BackingField: 0
+    normalized_LevelValueCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 0
+      m_PostInfinity: 0
+      m_RotationOrder: 0
+  - <attributeType>k__BackingField: {fileID: 11400000, guid: a20f7b295cba38e40875775cffda1e59, type: 2}
+    <min_LevelValue>k__BackingField: 100
+    <max_LevelValue>k__BackingField: 100
+    normalized_LevelValueCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 0
+      m_PostInfinity: 0
+      m_RotationOrder: 0
+  - <attributeType>k__BackingField: {fileID: 11400000, guid: 62e9fe5b1bc5f90448d8156fec535381, type: 2}
+    <min_LevelValue>k__BackingField: 0
+    <max_LevelValue>k__BackingField: 0
+    normalized_LevelValueCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 0
+      m_PostInfinity: 0
+      m_RotationOrder: 0
+  - <attributeType>k__BackingField: {fileID: 11400000, guid: dfb597f614bc71640bea3534ed024fbb, type: 2}
+    <min_LevelValue>k__BackingField: 0
+    <max_LevelValue>k__BackingField: 0
+    normalized_LevelValueCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 0
+      m_PostInfinity: 0
+      m_RotationOrder: 0
+  - <attributeType>k__BackingField: {fileID: 11400000, guid: e4223517456c6854b951cd04c4da02fc, type: 2}
+    <min_LevelValue>k__BackingField: 1
+    <max_LevelValue>k__BackingField: 1
+    normalized_LevelValueCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 0
+      m_PostInfinity: 0
+      m_RotationOrder: 0

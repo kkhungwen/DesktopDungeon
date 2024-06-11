@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54533e97095ed184f826c8aaa39782bf, type: 3}
+  m_Name: HumanoidDetailsSO_Skeleton
+  m_EditorClassIdentifier: 
+  attributeDataArray: {fileID: 11400000, guid: c6e186677aefc27468564874cc22a39c, type: 2}
+  baseHeadAnimationArray:
+  - spriteArray:
+    - {fileID: 1038231623, guid: 63b16ffb0eeea6348ae8ceb81f61e2d9, type: 3}
+    - {fileID: 1038231623, guid: 63b16ffb0eeea6348ae8ceb81f61e2d9, type: 3}
+    - {fileID: 1038231623, guid: 63b16ffb0eeea6348ae8ceb81f61e2d9, type: 3}
+    - {fileID: 1038231623, guid: 63b16ffb0eeea6348ae8ceb81f61e2d9, type: 3}
+  - spriteArray:
+    - {fileID: 1038231623, guid: 63b16ffb0eeea6348ae8ceb81f61e2d9, type: 3}
+    - {fileID: 1038231623, guid: 63b16ffb0eeea6348ae8ceb81f61e2d9, type: 3}
+    - {fileID: 1038231623, guid: 63b16ffb0eeea6348ae8ceb81f61e2d9, type: 3}
+    - {fileID: 1038231623, guid: 63b16ffb0eeea6348ae8ceb81f61e2d9, type: 3}
+  - spriteArray:
+    - {fileID: -1207873421, guid: 63b16ffb0eeea6348ae8ceb81f61e2d9, type: 3}
+  baseBodyAnimationArray:
+  - spriteArray:
+    - {fileID: 1045807082, guid: 63b16ffb0eeea6348ae8ceb81f61e2d9, type: 3}
+    - {fileID: 1045807082, guid: 63b16ffb0eeea6348ae8ceb81f61e2d9, type: 3}
+    - {fileID: 1045807082, guid: 63b16ffb0eeea6348ae8ceb81f61e2d9, type: 3}
+    - {fileID: 1045807082, guid: 63b16ffb0eeea6348ae8ceb81f61e2d9, type: 3}
+  - spriteArray:
+    - {fileID: 1045807082, guid: 63b16ffb0eeea6348ae8ceb81f61e2d9, type: 3}
+    - {fileID: -744899063, guid: 63b16ffb0eeea6348ae8ceb81f61e2d9, type: 3}
+    - {fileID: 1045807082, guid: 63b16ffb0eeea6348ae8ceb81f61e2d9, type: 3}
+    - {fileID: -879352063, guid: 63b16ffb0eeea6348ae8ceb81f61e2d9, type: 3}
+  - spriteArray:
+    - {fileID: 1973095375, guid: 63b16ffb0eeea6348ae8ceb81f61e2d9, type: 3}
+  defaultEquipDetails:
+    mode: 0
+    unityReference: {fileID: 11400000, guid: 2058e4f6fbc889046aaca35486beb483, type: 2}
+    rawReference:
+      rid: -2
+  handSprite: {fileID: -1961386777, guid: 63b16ffb0eeea6348ae8ceb81f61e2d9, type: 3}
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }

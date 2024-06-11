@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4ae726d2fea7af44a932aabee4bff82, type: 3}
+  m_Name: LevelDewtailsSO_2
+  m_EditorClassIdentifier: 
+  enemyLevel: 3
+  enemyClearRequiredAmount: 100
+  enemyWaveArray:
+  - enemyDetailsArray:
+    - mode: 0
+      unityReference: {fileID: 11400000, guid: 2440e5a83b0e010458a19b478ffa4339, type: 2}
+      rawReference:
+        rid: -2
+    - mode: 0
+      unityReference: {fileID: 11400000, guid: a3a36e66206b75e4b8248249ef6246c9, type: 2}
+      rawReference:
+        rid: -2
+    - mode: 0
+      unityReference: {fileID: 11400000, guid: 28279b356acc5a243947c927b29fff40, type: 2}
+      rawReference:
+        rid: -2
+  bossWaveArray: []
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }

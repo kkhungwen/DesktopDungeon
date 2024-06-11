@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54533e97095ed184f826c8aaa39782bf, type: 3}
+  m_Name: HumanoidDetailsSO_Goblin
+  m_EditorClassIdentifier: 
+  attributeDataArray: {fileID: 11400000, guid: c6e186677aefc27468564874cc22a39c, type: 2}
+  baseHeadAnimationArray:
+  - spriteArray:
+    - {fileID: -1546503509, guid: 12a46372c98ad5442aa18823a0572ad9, type: 3}
+    - {fileID: -1546503509, guid: 12a46372c98ad5442aa18823a0572ad9, type: 3}
+    - {fileID: -1546503509, guid: 12a46372c98ad5442aa18823a0572ad9, type: 3}
+    - {fileID: -1546503509, guid: 12a46372c98ad5442aa18823a0572ad9, type: 3}
+  - spriteArray:
+    - {fileID: -1546503509, guid: 12a46372c98ad5442aa18823a0572ad9, type: 3}
+    - {fileID: -1546503509, guid: 12a46372c98ad5442aa18823a0572ad9, type: 3}
+    - {fileID: -1546503509, guid: 12a46372c98ad5442aa18823a0572ad9, type: 3}
+    - {fileID: -1546503509, guid: 12a46372c98ad5442aa18823a0572ad9, type: 3}
+  - spriteArray:
+    - {fileID: 122011093, guid: 12a46372c98ad5442aa18823a0572ad9, type: 3}
+  baseBodyAnimationArray:
+  - spriteArray:
+    - {fileID: -1307643385, guid: 12a46372c98ad5442aa18823a0572ad9, type: 3}
+    - {fileID: -1307643385, guid: 12a46372c98ad5442aa18823a0572ad9, type: 3}
+    - {fileID: -1307643385, guid: 12a46372c98ad5442aa18823a0572ad9, type: 3}
+    - {fileID: -1307643385, guid: 12a46372c98ad5442aa18823a0572ad9, type: 3}
+  - spriteArray:
+    - {fileID: -1307643385, guid: 12a46372c98ad5442aa18823a0572ad9, type: 3}
+    - {fileID: 1381412688, guid: 12a46372c98ad5442aa18823a0572ad9, type: 3}
+    - {fileID: -1307643385, guid: 12a46372c98ad5442aa18823a0572ad9, type: 3}
+    - {fileID: 405303817, guid: 12a46372c98ad5442aa18823a0572ad9, type: 3}
+  - spriteArray:
+    - {fileID: -197026506, guid: 12a46372c98ad5442aa18823a0572ad9, type: 3}
+  defaultEquipDetails:
+    mode: 0
+    unityReference: {fileID: 11400000, guid: 2058e4f6fbc889046aaca35486beb483, type: 2}
+    rawReference:
+      rid: -2
+  handSprite: {fileID: 216880058, guid: 12a46372c98ad5442aa18823a0572ad9, type: 3}
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }

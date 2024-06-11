@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8226486996033068603
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 269890058760634481}
+  - component: {fileID: 5687651895149567750}
+  m_Layer: 0
+  m_Name: GameResources
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &269890058760634481
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8226486996033068603}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5687651895149567750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8226486996033068603}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ae3a1dfb11c1674b82ac919641486a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  instantiatedHumanoidPrefab: {fileID: 222127850067535497, guid: 34007cd3ce8218346be3955051705248, type: 3}
+  instantiatedEquipPrefab: {fileID: 4346868842101866303, guid: 1ac5817430984534780797a695eeea4f, type: 3}
+  instantiatedChestPrefab: {fileID: 2862286661562133169, guid: 2c78f3df4535d0b46816be7d969fffd4, type: 3}
+  instantiatedDoorPrefab: {fileID: 6302777199763626363, guid: a0782f20830ec2f4584f88ed8b0a9990, type: 3}
+  instantiatedSlimePrefab: {fileID: 486183122943329305, guid: c50ce0f91aa76334fb95680d9d2c9106, type: 3}
+  instanttiatedSlimeKingPrefab: {fileID: 6489587320730192530, guid: 28b18f358ec885c4cadec565a05b7b4b, type: 3}
+  humanoidInspec_ClickPrefab: {fileID: 6479527714786215344, guid: 839de834758ab334bb334bb88904bcee, type: 3}
+  doorInspec_Click_Prefab: {fileID: 6272004198027594909, guid: baec45694c1a5814f85cb0f09b3d20e9, type: 3}
+  doorInspec_Hover_Prefab: {fileID: 5326833207502606798, guid: eef483e22a2c08b40bc51daf54f131b4, type: 3}
+  equipInspecPrefab: {fileID: 312169244971879916, guid: d64f3bc9ad8c74549a12ed8f47aace66, type: 3}
+  chestInspecPrefab: {fileID: 5446741557599406433, guid: e635b8eb6a9c2a944882190e270bbc15, type: 3}
+  mainLevelDetailsArray:
+  - {fileID: 11400000, guid: 211439bdcf404ac41a79d72a7a4c78ec, type: 2}
+  - {fileID: 11400000, guid: b7fad8db640382a44b145e7882e89a94, type: 2}
+  - {fileID: 11400000, guid: f2f66825990d0484ab67e2108d2f21c3, type: 2}
+  - {fileID: 11400000, guid: c314b035ccab8c54c8f4e29ccb9e59d2, type: 2}
+  - {fileID: 11400000, guid: 0937f566eae014c4f8067220d336de84, type: 2}
+  - {fileID: 11400000, guid: 0271974f59931af4ab9d67fa24a6a923, type: 2}
+  - {fileID: 11400000, guid: fd19d7eaf30eca1479fee63498995021, type: 2}
+  instanceBaseAttributeTypeArray:
+  - {fileID: 11400000, guid: fae5a12e8d1a47848bef04ef44475e33, type: 2}
+  - {fileID: 11400000, guid: 102d07a6fc4dbf14984b03e499dd3540, type: 2}
+  - {fileID: 11400000, guid: 48ab488834abb0c45aedb6b4e36bf673, type: 2}
+  - {fileID: 11400000, guid: 687748fd7d613c94aa294ac48ba346ed, type: 2}
+  - {fileID: 11400000, guid: 368788329f1f5ef42aed2bd877d15c12, type: 2}
+  - {fileID: 11400000, guid: a20f7b295cba38e40875775cffda1e59, type: 2}
+  - {fileID: 11400000, guid: 62e9fe5b1bc5f90448d8156fec535381, type: 2}
+  - {fileID: 11400000, guid: dfb597f614bc71640bea3534ed024fbb, type: 2}
+  - {fileID: 11400000, guid: e4223517456c6854b951cd04c4da02fc, type: 2}
+  attack_Arribute: {fileID: 11400000, guid: fae5a12e8d1a47848bef04ef44475e33, type: 2}
+  defence_Attribute: {fileID: 11400000, guid: 368788329f1f5ef42aed2bd877d15c12, type: 2}
+  health_Attibute: {fileID: 11400000, guid: a20f7b295cba38e40875775cffda1e59, type: 2}
+  attackSpeed_Attribute: {fileID: 11400000, guid: 102d07a6fc4dbf14984b03e499dd3540, type: 2}
+  moveSpeed_Attribute: {fileID: 11400000, guid: e4223517456c6854b951cd04c4da02fc, type: 2}
+  damageOutput_Attribute: {fileID: 11400000, guid: 48ab488834abb0c45aedb6b4e36bf673, type: 2}
+  damageTaken_Attribute: {fileID: 11400000, guid: 687748fd7d613c94aa294ac48ba346ed, type: 2}
+  healthRegen_Attribute: {fileID: 11400000, guid: 62e9fe5b1bc5f90448d8156fec535381, type: 2}
+  lifeSteal_Attribute: {fileID: 11400000, guid: dfb597f614bc71640bea3534ed024fbb, type: 2}
+  swing_Weapon: {fileID: 11400000, guid: c36fce5755981204e87d3cdeceaf31d5, type: 2}
+  stab_Weapon: {fileID: 11400000, guid: d78e9ca0cb282404ab1924211925e793, type: 2}
+  bow_Weapon: {fileID: 11400000, guid: f367b4e3dfdb96a43a2483975c192ec3, type: 2}
+  weapon_Equip: {fileID: 11400000, guid: ab2dfd57942269f438a61ce089d6b428, type: 2}
+  head_Equip: {fileID: 11400000, guid: 1a1d50919ea181b4d819062f70983ff9, type: 2}
+  body_Equip: {fileID: 11400000, guid: 072a00fbb182037418dc7c7b3a2fbab3, type: 2}
+  dead_Tag: {fileID: 11400000, guid: 3f35d9e8a23b9f643b886917785f25ce, type: 2}
+  player_Tag: {fileID: 11400000, guid: 12a18efb9b7339040ad426d2228eca68, type: 2}
+  enemy_Tag: {fileID: 11400000, guid: e66020effd1979c47b62fe0dba25d16d, type: 2}
+  customColorSlimeShader: {fileID: -6465566751694194690, guid: 1c0543eb9441d364ebca89eb792f4dab, type: 3}
+  weaponDamageRatio:
+    <attributeRatioArray>k__BackingField:
+    - <attributeType>k__BackingField: {fileID: 11400000, guid: fae5a12e8d1a47848bef04ef44475e33, type: 2}
+      <ratio>k__BackingField: 1
+  bonusAttributeDataArray:
+  - <attributeType>k__BackingField: {fileID: 11400000, guid: fae5a12e8d1a47848bef04ef44475e33, type: 2}
+    value: 10
+  - <attributeType>k__BackingField: {fileID: 11400000, guid: 102d07a6fc4dbf14984b03e499dd3540, type: 2}
+    value: 0.2
+  - <attributeType>k__BackingField: {fileID: 11400000, guid: 368788329f1f5ef42aed2bd877d15c12, type: 2}
+    value: 10
+  - <attributeType>k__BackingField: {fileID: 11400000, guid: a20f7b295cba38e40875775cffda1e59, type: 2}
+    value: 50
+  bonusAffixTypeArray:
+  - {fileID: 11400000, guid: 531a0a4634a2bf643b5cedadd8e93b20, type: 2}
+  - {fileID: 11400000, guid: d5878dfa2967ef846b8bd4c4bd8bbb19, type: 2}
+  - {fileID: 11400000, guid: 5bec1f82f232ad545bb92b6f90e4c4ff, type: 2}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73920f3de2b45c14c88b9b61c7edb14f, type: 3}
+  m_Name: ArmorDetailsSO_IronBreastplate
+  m_EditorClassIdentifier: 
+  nameString: 
+  descriptionString: 
+  affixTypeArray:
+  - {fileID: 11400000, guid: 49aedbc873cac0046b63fbb7f1509cff, type: 2}
+  equipType: {fileID: 11400000, guid: 072a00fbb182037418dc7c7b3a2fbab3, type: 2}
+  equipAttribute:
+    <attributeType>k__BackingField: {fileID: 11400000, guid: 368788329f1f5ef42aed2bd877d15c12, type: 2}
+    <min_LevelValue>k__BackingField: 10
+    <max_LevelValue>k__BackingField: 100
+  iconSprite: {fileID: 785287170, guid: a7aa7180e488ef243ba5517e60eb368b, type: 3}
+  instantiatedSprite: {fileID: 262143210, guid: a7aa7180e488ef243ba5517e60eb368b, type: 3}
+  spriteAnimationArray:
+  - spriteArray:
+    - {fileID: 392279373, guid: a7aa7180e488ef243ba5517e60eb368b, type: 3}
+    - {fileID: 441058198, guid: a7aa7180e488ef243ba5517e60eb368b, type: 3}
+    - {fileID: -1690031937, guid: a7aa7180e488ef243ba5517e60eb368b, type: 3}
+    - {fileID: -908650312, guid: a7aa7180e488ef243ba5517e60eb368b, type: 3}
+  - spriteArray:
+    - {fileID: -668118250, guid: a7aa7180e488ef243ba5517e60eb368b, type: 3}
+    - {fileID: 1273968504, guid: a7aa7180e488ef243ba5517e60eb368b, type: 3}
+    - {fileID: -1239562900, guid: a7aa7180e488ef243ba5517e60eb368b, type: 3}
+    - {fileID: 983668714, guid: a7aa7180e488ef243ba5517e60eb368b, type: 3}
+  handSprite: {fileID: -2052606766, guid: a7aa7180e488ef243ba5517e60eb368b, type: 3}
+  enableBaseSprite: 0
+  isReplaceHandSprite: 0

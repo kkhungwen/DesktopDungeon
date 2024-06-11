@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a925ff5fdf1ad3444816eca2803b4707, type: 3}
+  m_Name: ChestDetailsSO_Wooden
+  m_EditorClassIdentifier: 
+  inventorySize: 25
+  animationArray:
+  - spriteArray:
+    - {fileID: 1353375688, guid: 570a401823b597d4481f3c954c1916f6, type: 3}
+  - spriteArray:
+    - {fileID: 1596756824, guid: 570a401823b597d4481f3c954c1916f6, type: 3}
+    - {fileID: 513791667, guid: 570a401823b597d4481f3c954c1916f6, type: 3}
+  iconSprite: {fileID: 1353375688, guid: 570a401823b597d4481f3c954c1916f6, type: 3}
